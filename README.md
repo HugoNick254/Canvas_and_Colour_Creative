@@ -51,7 +51,7 @@ To view and work on the website, you can serve the files locally using a simple 
 
 You can view the live website here:
 
-**\[[Insert Live Website URL Here](https://hugonick254.github.io/Canvas_and_Colour_Creative/)\]**
+**\[(https://hugonick254.github.io/Canvas_and_Colour_Creative/)\]**
 
 ## **Contributing**
 
