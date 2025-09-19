@@ -39,7 +39,7 @@ The project is organized into a clear and logical directory structure to ensure 
 To view and work on the website, you can serve the files locally using a simple web server.
 
 1. **Clone the repository:**  
-   git clone \[Your Repository URL\]
+   git clone \[[Your Repository URL](https://github.com/HugoNick254/Canvas_and_Colour_Creative.git)\]
 
 2. **Navigate to the project directory:**  
    cd canvas-colour-creative
@@ -51,7 +51,7 @@ To view and work on the website, you can serve the files locally using a simple 
 
 You can view the live website here:
 
-**\[(https://hugonick254.github.io/Canvas_and_Colour_Creative/)\]**
+**\[Canvas & Colour Website\][https://hugonick254.github.io/Canvas_and_Colour_Creative/]**
 
 ## **Contributing**
 
