@@ -51,7 +51,7 @@ To view and work on the website, you can serve the files locally using a simple 
 
 You can view the live website here:
 
-**\[Insert Live Website URL Here\]**
+**\[[Insert Live Website URL Here](https://hugonick254.github.io/Canvas_and_Colour_Creative/)\]**
 
 ## **Contributing**
 
@@ -62,5 +62,3 @@ If you'd like to contribute, please follow these steps:
 3. Make your changes and commit them (git commit \-m 'Add a new feature').  
 4. Push to the branch (git push origin feature/your-feature-name).  
 5. Open a Pull Request.
-
-**License:** \[Insert License Information Here, e.g., MIT, ISC\]
